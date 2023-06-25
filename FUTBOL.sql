@@ -10,36 +10,36 @@ Asist_Sayisi int
 )
 
 INSERT INTO	FutbolData1 VALUES
-('Martinelli' ,21,'Kanat','Arsenal','İngiltere',27,	12,	2),
-('Saka',21,	'Kanat','Arsenal',	'İngiltere',	27,	10,	9),
-('Odegaard',24,	'Orta Saha','Arsenal','İngiltere',26,10,6),
-('Haaland',22,'Forvet','Man.City','İngiltere',26,28,5),
-('Foden',22,'Kanat','Man.City','İngiltere',	24,	9,	5),
-('Mahrez',32,	'Kanat','Man.City'	,'İngiltere'	,19,5,	4),
-('Rashford',25,'Kanat','Man.Utd','İngiltere',26,14,	3),
-('B.Fernandes',	28,	'Orta Saha','Man.Utd','İngiltere',25,	5,	6),
-('Sancho',22,'Kanat','Man.Utd','İngiltere',14,	4,	1),
-('Lewandowski',	34,	'Forvet','Barcelona',	'İspanya',	21,	15,	5),
-('Pedri',20,'Orta Saha','Barcelona','İspanya',	21,	6,	0),
-('Raphinha',26,	'Kanat','Barcelona','İspanya',	24,	6,	4),
-('Benzema',	35,	'Forvet','Real Madrid',	'İspanya',	26,	11,	3),
-('Vinicius Jr.',22,	'Kanat','Real Madrid',	'İspanya',	24,	8,	4),
-('Valverde',24,	'Orta Saha','Real Madrid',	'İspanya',	25,	7,	2),
-('Morata',30,'Forvet','Atletico Madrid','İspanya',	25,	10,	1),
-('Griezman',31,	'Forvet','Atletico Madrid',	'İspanya',	25,	8,	8),
-('Correa',28,'Kanat','Atletico Madrid','İspanya',23,	5,	0),
-('Osimhen',	24,'Forvet','Napoli','İtalya',	22,	19,	4),
-('Kvaratskhelia',22,'Kanat','Napoli','İtalya',22,11,9),
-('Eljif Elmas',	23,'Orta Saha','Napoli','İtalya',	25,	6,	2),
-('Martinez',25,	'Forvet','İnter','İtalya',26,14,	3),
-('Dzeko',36,'Forvet','İnter','İtalya',26,7,	3),
-('Barella',	26,	'Orta Saha','İnter','İtalya',25,	5,	6),
-('İmmobile',33,	'Forvet','Lazio','İtalya',20,	9,	3),
-('Zaccagni',27,	'Kanat','Lazio','İtalya',	23,	8,	4),
-('Anderson',29,	'Kanat','Lazio','İtalya',26,	6,	2),
-('Musiala',	20,	'Orta Saha','Bayern Münih',	'Almanya',	23,	11,	8),
-('Choupo-Moting',33,'Forvet','Bayern Münih','Almanya',17,	10,	2),
-('Gnabry',27,'Kanat','Bayern Münih','Almanya',24,	9,	4),
+('Martinelli' ,21,'Kanat','Arsenal','Ãngiltere',27,	12,	2),
+('Saka',21,	'Kanat','Arsenal',	'Ãngiltere',	27,	10,	9),
+('Odegaard',24,	'Orta Saha','Arsenal','Ãngiltere',26,10,6),
+('Haaland',22,'Forvet','Man.City','Ãngiltere',26,28,5),
+('Foden',22,'Kanat','Man.City','Ãngiltere',	24,	9,	5),
+('Mahrez',32,	'Kanat','Man.City'	,'Ãngiltere'	,19,5,	4),
+('Rashford',25,'Kanat','Man.Utd','Ãngiltere',26,14,	3),
+('B.Fernandes',	28,	'Orta Saha','Man.Utd','Ãngiltere',25,	5,	6),
+('Sancho',22,'Kanat','Man.Utd','Ãngiltere',14,	4,	1),
+('Lewandowski',	34,	'Forvet','Barcelona',	'Ãspanya',	21,	15,	5),
+('Pedri',20,'Orta Saha','Barcelona','Ãspanya',	21,	6,	0),
+('Raphinha',26,	'Kanat','Barcelona','Ãspanya',	24,	6,	4),
+('Benzema',	35,	'Forvet','Real Madrid',	'Ãspanya',	26,	11,	3),
+('Vinicius Jr.',22,	'Kanat','Real Madrid',	'Ãspanya',	24,	8,	4),
+('Valverde',24,	'Orta Saha','Real Madrid',	'Ãspanya',	25,	7,	2),
+('Morata',30,'Forvet','Atletico Madrid','Ãspanya',	25,	10,	1),
+('Griezman',31,	'Forvet','Atletico Madrid',	'Ãspanya',	25,	8,	8),
+('Correa',28,'Kanat','Atletico Madrid','Ãspanya',23,	5,	0),
+('Osimhen',	24,'Forvet','Napoli','Ãtalya',	22,	19,	4),
+('Kvaratskhelia',22,'Kanat','Napoli','Ãtalya',22,11,9),
+('Eljif Elmas',	23,'Orta Saha','Napoli','Ãtalya',	25,	6,	2),
+('Martinez',25,	'Forvet','Ãnter','Ãtalya',26,14,	3),
+('Dzeko',36,'Forvet','Ãnter','Ãtalya',26,7,	3),
+('Barella',	26,	'Orta Saha','Ãnter','Ãtalya',25,	5,	6),
+('Ãmmobile',33,	'Forvet','Lazio','Ãtalya',20,	9,	3),
+('Zaccagni',27,	'Kanat','Lazio','Ãtalya',	23,	8,	4),
+('Anderson',29,	'Kanat','Lazio','Ãtalya',26,	6,	2),
+('Musiala',	20,	'Orta Saha','Bayern MÃ¼nih',	'Almanya',	23,	11,	8),
+('Choupo-Moting',33,'Forvet','Bayern MÃ¼nih','Almanya',17,	10,	2),
+('Gnabry',27,'Kanat','Bayern MÃ¼nih','Almanya',24,	9,	4),
 ('Brandt',26,'Kanat','B. Dortmund',	'Almanya',23,	8,	4),
 ('Moukoko',18,'Forvet','B. Dortmund','Almanya',18,6,	3),
 ('Reyna',20,'Orta Saha','B. Dortmund','Almanya',20,5,0),
@@ -56,8 +56,6 @@ INSERT INTO	FutbolData1 VALUES
 ('Sotoca',32,'Forvet','Lens','Fransa',27,	6,	7),
 ('Said',27,	'Forvet','Lens','Fransa',17,5	,0)
 
-select*from FutbolData1
-
 Select Distinct(Oynadigi_Lig) from FutbolData1
 
 SELECT COUNT(Ad) AS ADCOUNT FROM FutbolData1
@@ -72,9 +70,9 @@ select * from FutbolData1 Where Ad <> 'Messi'
 
 select * from FutbolData1 Where Gol_Sayisi < 10
 
-select * from FutbolData1 Where Gol_Sayisi < 10 AND Oynadigi_Lig = 'İngiltere'
+select * from FutbolData1 Where Gol_Sayisi < 10 AND Oynadigi_Lig = 'Ãngiltere'
 
-select * from FutbolData1 Where Gol_Sayisi < 10 OR Oynadigi_Lig = 'İngiltere'
+select * from FutbolData1 Where Gol_Sayisi < 10 OR Oynadigi_Lig = 'Ãngiltere'
 
 select * from FutbolData1 Where Oynadigi_Takim LIKE 'A%'
 
@@ -84,7 +82,6 @@ select * from FutbolData1 Where Ad is not null
 
 select * from FutbolData1 Where Ad in ('Messi','Mahrez')
 
-
 select Mevki, COUNT(Mevki) from FutbolData1
 GROUP BY Mevki
  
@@ -92,75 +89,72 @@ select Mevki, COUNT(Mevki) AS MevkiCount from FutbolData1
 GROUP BY Mevki
 ORDER BY MevkiCount
 
-CREATE TABLE KullanılanAyak
-(Ad varchar(50),KullandığıAyak varchar(50))
+CREATE TABLE KullanÃ½lanAyak
+(Ad varchar(50),KullandÃ½Ã°Ã½Ayak varchar(50))
 
 
-INSERT INTO	KullanılanAyak VALUES
-('Martinelli','Sağ'),
+INSERT INTO	KullanÃ½lanAyak VALUES
+('Martinelli','SaÃ°'),
 ('Saka','Sol'),
 ('Odegaard','Sol'),
 ('Haaland','Sol'),
 ('Foden','Sol'),
 ('Mahrez','Sol'),
-('Rashford','Sağ'),
-('B.Fernandes','Sağ'),
-('Sancho','Sağ'),
-('Lewandowski','Sağ'),
-('Pedri','Sağ'),
-('Raphinha','Sağ'),
-('Benzema','Sağ'),
-('Vinicius Jr.','Sağ'),
-('Valverde','Sağ'),
-('Morata','Sağ'),
+('Rashford','SaÃ°'),
+('B.Fernandes','SaÃ°'),
+('Sancho','SaÃ°'),
+('Lewandowski','SaÃ°'),
+('Pedri','SaÃ°'),
+('Raphinha','SaÃ°'),
+('Benzema','SaÃ°'),
+('Vinicius Jr.','SaÃ°'),
+('Valverde','SaÃ°'),
+('Morata','SaÃ°'),
 ('Griezman','Sol'),
-('Correa','Sağ'),
-('Osimhen','Sağ'),
-('Kvaratskhelia','Sağ'),
-('Eljif Elmas','Sağ'),
-('Martinez','Sağ'),
-('Dzeko','Sağ'),
-('Barella','Sağ'),
-('İmmobile','Sağ'),
-('Zaccagni','Sağ'),
+('Correa','SaÃ°'),
+('Osimhen','SaÃ°'),
+('Kvaratskhelia','SaÃ°'),
+('Eljif Elmas','SaÃ°'),
+('Martinez','SaÃ°'),
+('Dzeko','SaÃ°'),
+('Barella','SaÃ°'),
+('Ãmmobile','SaÃ°'),
+('Zaccagni','SaÃ°'),
 ('Anderson','Sol'),
-('Musiala','Sağ'),
-('Choupo-Moting','Sağ'),
-('Gnabry','Sağ'),
-('Brandt','Sağ'),
+('Musiala','SaÃ°'),
+('Choupo-Moting','SaÃ°'),
+('Gnabry','SaÃ°'),
+('Brandt','SaÃ°'),
 ('Moukoko','Sol'),
-('Reyna','Sağ'),
-('Nkunku','Sağ'),
-('Werner','Sağ'),
-('Forsberg','Sağ'),
-('Mbappe','Sağ'),
+('Reyna','SaÃ°'),
+('Nkunku','SaÃ°'),
+('Werner','SaÃ°'),
+('Forsberg','SaÃ°'),
+('Mbappe','SaÃ°'),
 ('Messi','Sol'),
-('Neymar','Sağ'),
-('Sanchez','Sağ'),
+('Neymar','SaÃ°'),
+('Sanchez','SaÃ°'),
 ('Tavares','Sol'),
-('Mbemba','Sağ'),
-('Openda','Sağ'),
-('Sotoca','Sağ'),
-('Said','Sağ')
-
-select * from FutbolData1
-select* from KullanılanAyak
+('Mbemba','SaÃ°'),
+('Openda','SaÃ°'),
+('Sotoca','SaÃ°'),
+('Said','SaÃ°')
 
 
 select* from FUTBOL.dbo.FutbolData1
-Inner Join FUTBOL.dbo.KullanılanAyak
-ON FutbolData1.Ad = KullanılanAyak.Ad
+Inner Join FUTBOL.dbo.KullanÃ½lanAyak
+ON FutbolData1.Ad = KullanÃ½lanAyak.Ad
 
 select* from FUTBOL.dbo.FutbolData1
-Left Outer Join FUTBOL.dbo.KullanılanAyak
-ON FutbolData1.Ad = KullanılanAyak.Ad
+Left Outer Join FUTBOL.dbo.KullanÃ½lanAyak
+ON FutbolData1.Ad = KullanÃ½lanAyak.Ad
 
 
 select Ad, Oynadigi_Takim, Yas,
 CASE
-	WHEN Yas < 25 THEN 'Genç'
-	WHEN Yas Between 25 and 30 then 'Orta Yaşlı'
-	Else 'Yaşlı'
+	WHEN Yas < 25 THEN 'GenÃ§'
+	WHEN Yas Between 25 and 30 then 'Orta YaÃ¾lÃ½'
+	Else 'YaÃ¾lÃ½'
 End AS YasKategori
 from Futbol.dbo.FutbolData1
 
@@ -169,7 +163,7 @@ Group By Mevki
 Having COUNT(Gol_Sayisi) >10
 
 select *from FutbolData1 AS Fut
-INNER JOIN KullanılanAyak AS Ayak
+INNER JOIN KullanÃ½lanAyak AS Ayak
 	ON Fut.Ad = Ayak.Ad
 
 Select Ad,TRIM(Ad) As ADTrim 
@@ -183,33 +177,33 @@ from FutbolData1
 
 
 select * from FutbolData1
-select* from KullanılanAyak
+select* from KullanÃ½lanAyak
 
 
---İki Tabloyu birleştirip Kullanılan_Ayak sütununu ekliyoruz
+--Ãki Tabloyu birleÃ¾tirip KullanÃ½lan_Ayak sÃ¼tununu ekliyoruz
 ALTER TABLE FutbolData1
-ADD Kullanılan_Ayak VARCHAR(10);
+ADD KullanÃ½lan_Ayak VARCHAR(10);
 
 UPDATE FutbolData1
-SET Kullanılan_Ayak = KA.KullandığıAyak
-FROM KullanılanAyak KA
+SET KullanÃ½lan_Ayak = KA.KullandÃ½Ã°Ã½Ayak
+FROM KullanÃ½lanAyak KA
 WHERE FutbolData1.Ad = KA.Ad;
 
---Tablodaki Sütun ve satırı silmek
+--Tablodaki SÃ¼tun ve satÃ½rÃ½ silmek
 ALTER TABLE FutbolData1
-DROP COLUMN Kullandığı_Ayak;
+DROP COLUMN KullandÃ½Ã°Ã½_Ayak;
 
 DELETE FROM FutbolData1
 WHERE Ad IS NULL;
 
 select * from FutbolData1
-select* from KullanılanAyak
+select* from KullanÃ½lanAyak
 
 ALTER TABLE FutbolData1
-ADD Aldığı_süre INT;
+ADD AldÃ½Ã°Ã½_sÃ¼re INT;
 
 UPDATE FutbolData1
-SET Aldığı_Süre = CASE
+SET AldÃ½Ã°Ã½_SÃ¼re = CASE
                       WHEN Ad = 'martinelli' THEN 2789
                       WHEN Ad = 'saka' THEN 3181
 					  WHEN Ad = 'odegaard'THEN 3127
@@ -255,7 +249,7 @@ SET Aldığı_Süre = CASE
 					  WHEN Ad = 'Openda' THEN 2517
 					  WHEN Ad = 'Sotoca' THEN 3054
 					  WHEN Ad = 'Said' THEN 644
-                      ELSE Aldığı_süre
+                      ELSE AldÃ½Ã°Ã½_sÃ¼re
                   END;
 
 UPDATE FutbolData1
@@ -414,17 +408,17 @@ SET Oynadigi_Mac_Sayisi = CASE
 
 
 ALTER TABLE FutbolData1
-ADD Oynanan_Doksan_Dakika_Sayısı DECIMAL(10, 2);
+ADD Oynanan_Doksan_Dakika_SayÃ½sÃ½ DECIMAL(10, 2);
 
 UPDATE FutbolData1
-SET Oynanan_Doksan_Dakika_Sayısı = CAST(Aldığı_süre AS DECIMAL(10, 2)) / 90;
+SET Oynanan_Doksan_Dakika_SayÃ½sÃ½ = CAST(AldÃ½Ã°Ã½_sÃ¼re AS DECIMAL(10, 2)) / 90;
 
 
 ALTER TABLE FutbolData1
-ADD Doksan_Dakika_Başına_Gol DECIMAL(10, 2);
+ADD Doksan_Dakika_BaÃ¾Ã½na_Gol DECIMAL(10, 2);
 
 UPDATE FutbolData1
-SET Doksan_Dakika_Başına_Gol = CAST(Gol_Sayisi AS DECIMAL(10, 2)) / Oynanan_Doksan_Dakika_Sayısı;
+SET Doksan_Dakika_BaÃ¾Ã½na_Gol = CAST(Gol_Sayisi AS DECIMAL(10, 2)) / Oynanan_Doksan_Dakika_SayÃ½sÃ½;
 
 ALTER TABLE FutbolData1
 ADD xG DECIMAL(10, 1);
