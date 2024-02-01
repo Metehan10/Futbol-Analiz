@@ -1,5 +1,4 @@
 # Futbol-Analiz
-
 Bu çalışmamda Avrupada bulunan 5 büyük ligten seçilmiş 3 takımın, seçilen 3 oyuncusunun bazı verileri mevcuttur . 
 
 --------------------------------------------------------------------------------------------------------
